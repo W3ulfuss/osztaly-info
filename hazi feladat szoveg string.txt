@@ -1,0 +1,3 @@
+Irjunk egy c++ programot ami beolvas a billentyuzetrol egy szoveget es megszamolja hogy hany maganhangzot haszanlt
+a beiras es kiiras input.txt es output.txt allomanyokba legyen.
+-stringes-
